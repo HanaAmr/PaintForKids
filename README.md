@@ -1,2 +1,2 @@
 # PaintForKids
-This is the project of a Programming Techniques Course. It is a simple Paint application that allows the kids to draw and paint shapes.
+This is the project of a Programming Techniques Course. It is a simple Paint application that allows the kids to draw and paint shapes using Visual Studio and C++ as a programming language 
